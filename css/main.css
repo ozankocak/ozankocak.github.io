@@ -6,4 +6,5 @@ body {
 h1 {
     font-size: 3em;
     font-family: 'Source Code Pro', monospace;
+    color: rgb(128,128,128)
    }
