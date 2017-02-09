@@ -1,9 +1,13 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+}
 
 h1 {
     font-size: 3em;
     font-family: 'Source Code Pro', monospace;
     color: rgb(128,128,128);
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 50%;
    }
