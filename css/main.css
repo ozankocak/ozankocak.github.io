@@ -1,5 +1,5 @@
 body {
-    margin: 60px auto;
+    margin: 0px auto;
     width: 100%;
     background-color: #000000;
 }
@@ -10,4 +10,5 @@ h1 {
     color: #ffffff;
     position: fixed;
     top: 50%;
+    bottom: 50%;
    }
