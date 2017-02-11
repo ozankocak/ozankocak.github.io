@@ -2,14 +2,11 @@ body {
     margin: 60px auto;
     width: 100%;
     background-color: #000000;
-    text-align: center;
     }
 
 h1 {
     font-size: 3em;
     font-family: 'Source Code Pro', monospace;
     color: #ffffff;
-    position: fixed;
-    top: 50%;
-    bottom: 50%;
+    text-align: center;  
    }
