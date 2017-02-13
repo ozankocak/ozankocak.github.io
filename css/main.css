@@ -1,15 +1,25 @@
 body {
     margin: 60px auto;
     width: 100%;
-    background-color: #000000;
+    background-color: rgb(255,255,255);
     }
 
 h1 {
     font-size: 2em;
     font-family: 'Montserrat', sans-serif;
-    color: #ffffff;
+    color: rgb(110,110,110);
     position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+   }
+
+h2 {
+    font-size: 1em;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(100,100,100);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-60%, -60%);
    }
