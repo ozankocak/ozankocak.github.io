@@ -14,3 +14,16 @@ h1 {
     transform: translate(-50%, -50%);
    }
 
+h2 {
+    font-size: 1em;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(110,110,110);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    a:link {
+    color: red;
+}
+
+
