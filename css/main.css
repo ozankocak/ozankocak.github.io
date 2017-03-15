@@ -5,7 +5,7 @@ body {
     }
 
 h1 {
-    font-size: 1.5em;
+    font-size: 1em;
     font-family: 'Montserrat', sans-serif;
     color: rgb(110,110,110);
     position: fixed;
@@ -15,17 +15,19 @@ h1 {
    }
 
 h2 {
-    font-size: 1em;
+    font-size: 0.7em;
     font-family: 'Montserrat', sans-serif;
-    color: rgb(110,110,110);
     position: fixed;
-    top: 55%;
+    top: 52%;
     left: 50%;
     transform: translate(-50%, -50%);
     }
 
 a  {
-    color: black;
+    color: rgb(150,150,150);
+   }
+
+a:hover {color:red;
 }
 
 
