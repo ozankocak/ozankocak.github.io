@@ -17,6 +17,7 @@ h1 {
 h2 {
     font-size: 0.7em;
     font-family: 'Montserrat', sans-serif;
+    color: rgb(150,150,150);
     position: fixed;
     top: 52%;
     left: 50%;
